@@ -11,3 +11,5 @@ Built with HTML, CSS, and JavaScript, it showcases my skills and allows task man
 1. Clone or download this repository  
 2. Open `index.html` in any web browser  
 3. Add tasks in the To-Do List and manage them interactively
+## Demo Video
+Watch the live demo of Portfolio + To-Do List here: [Demo Video](demo/video.mp4)
